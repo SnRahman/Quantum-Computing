@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created Nov 2020
-
-@author: hassi
-"""
 
 # Let's start by importing all we need.
 import numpy as np

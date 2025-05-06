@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created Nov 2020
-
-@author: hassi
-"""
 
 import numpy as np
 from math import sqrt
