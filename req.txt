@@ -1,0 +1,7 @@
+qiskit
+qiskit-aer
+IPython
+matplotlib
+ipywidgets
+seaborn
+qiskit-ibm-provider
